@@ -8,7 +8,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>메일보내기 성공</title>
 </head>
 <body>
 <h1>성공거ㅣㅏㅁㄴ어리ㅏ멍ㄹ;ㅐㅑㅁ넝ㄹ</h1>
